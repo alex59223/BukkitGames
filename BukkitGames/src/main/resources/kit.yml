@@ -18,7 +18,7 @@ default:
 #  COINS: 0 [THE PRICE FOR THE KIT (if Reward is enabled in the config file), 0 this kit can not be bought]
 # ITEMMENU: ITEM_ID [THE ID OF THE ITEM THAT WILL BE USED IN THE ITEMMENU FOR THAT KIT]
 
-barbarian:
+barbare:
   ITEMS:
     - '272,1'
   ABILITY:
@@ -27,7 +27,7 @@ barbarian:
     - 0
   COINS: 0
   ITEMMENU: 267
-miner:
+mineur:
   ITEMS:
     - '274,1,32,1'
     - '306,1'
@@ -37,7 +37,7 @@ miner:
     - '2,0,1'
   COINS: 2
   ITEMMENU: 257
-fisherman:
+pecheur:
   ITEMS:
     - '346,1'
     - '349,7'
@@ -69,7 +69,7 @@ enderman:
     - 0
   COINS: 0
   ITEMMENU: 381
-pyro:
+pyroman:
   ITEMS:
     - '259,1'
     - '299,1,1,1'
@@ -129,7 +129,7 @@ archer:
     - 0
   COINS: 0
   ITEMMENU: 261
-engineer:
+ingenieur:
   ITEMS:
     - '46,5'
     - '69,5'
